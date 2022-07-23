@@ -1,4 +1,4 @@
-<h1 align="center">Haitamexe :)</h1>
+<h1 align="center">Haitamexe</h1>
 <h3 align="center">A passionate Full Stack ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haitamexe&label=Profile%20views&color=0e75b6&style=flat"
