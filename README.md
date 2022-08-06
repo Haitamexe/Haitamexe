@@ -36,10 +36,6 @@
 [![NestJS](https://img.shields.io/badge/nestjs-%23F24E1E.svg?logo=nestjs&style=for-the-badge)]()
 
 
-### Databases
-[![something](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)]() 
-
-
 ## Other
 [![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
 
